@@ -1,0 +1,13 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>chatbot</groupId>
+    <artifactId>chatbot</artifactId>
+    <version>0.0.1</version>
+  </parent>
+  <groupId>chatbot-react</groupId>
+  <artifactId>chatbot-react</artifactId>
+  <packaging>pom</packaging>
+  <name>chatbot-react</name>
+  <description>chatbot-react</description>
+</project>
