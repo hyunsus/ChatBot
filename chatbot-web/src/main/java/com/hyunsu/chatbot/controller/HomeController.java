@@ -1,4 +1,4 @@
-package com.hyunsu.chatbot;
+package com.hyunsu.chatbot.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
